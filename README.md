@@ -1,3 +1,5 @@
+NOTE - THIS IS JUST THE READ ME FILE, THE PROJECT IS FOR NOW IN A PRIVATE REPO
+
 # 🌍 ApplicationVolunteer
 
 **ApplicationVolunteer** is a modern, web-based **Volunteer Management System** built to connect communities through structured and efficient volunteer coordination.
@@ -60,6 +62,20 @@ This platform empowers communities by streamlining volunteer management and enga
 <img width="932" alt="image" src="https://github.com/user-attachments/assets/ca43bebb-2a8e-413b-b63e-4158a8f8093e" />
 <img width="933" alt="image" src="https://github.com/user-attachments/assets/860f1de2-4adc-47a2-8709-1c4840792185" />
 <img width="926" alt="image" src="https://github.com/user-attachments/assets/492100f6-1aef-489b-99a6-b296e94c482b" />
+
+### 🏢 Organizations
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/5224d0a6-0aa6-45b7-b1b8-3b83e3684636" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/d450ff03-85fd-4806-9de0-e85fa650f88a" />
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/d024d7ff-6cfc-41bb-af0d-a39e6f7cf32f" />
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/b4f7bcf9-9c1c-44a4-b7cf-940a0b8f4017" />
+
+
+### 🛡️ Administrators
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/9455fcf0-2fe0-4096-abe8-fbab4a54096d" />
+<img width="936" alt="image" src="https://github.com/user-attachments/assets/417f3c56-ad33-4d92-ba58-ed3157fbc5b1" />
+
+
+
 
 
 
